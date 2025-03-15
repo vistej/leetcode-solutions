@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vistej/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/vistej/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vistej/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -82,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vistej/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
