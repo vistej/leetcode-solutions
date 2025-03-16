@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/vistej/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/vistej/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vistej/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/vistej/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/vistej/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vistej/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/vistej/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vistej/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/vistej/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
