@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/vistej/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vistej/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vistej/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vistej/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vistej/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -97,4 +98,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
