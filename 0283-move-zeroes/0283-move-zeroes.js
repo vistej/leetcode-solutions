@@ -5,19 +5,15 @@
 var moveZeroes = function(nums) {
 
     let i = 0;
-    let j = 1;
+    let j = 0;
 
-    while (i < j && j < nums.length) {
-        if (nums[i] === 0 && nums[j] !== 0) {
-            const temp = nums[i];
+    while (j < nums.length) {
+        if (nums[j] !== 0) {
             nums[i] = nums[j];
-            nums[j] = temp;
-        }
-        if (nums[i] !== 0) {
+            if (i !== j) nums[j] = 0;
             i++;
-            j = i + 1;
         }
-        if (nums[j] === 0) j++;
+        j++;
     }
 
     
