@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/vistej/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vistej/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vistej/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vistej/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -74,12 +75,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vistej/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/vistej/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vistej/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
