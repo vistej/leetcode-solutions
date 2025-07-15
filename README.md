@@ -142,10 +142,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/vistej/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/vistej/leetcode-solutions/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vistej/leetcode-solutions/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
