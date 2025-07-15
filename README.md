@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/vistej/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vistej/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/vistej/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vistej/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vistej/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vistej/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vistej/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vistej/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vistej/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vistej/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -177,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vistej/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vistej/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
