@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/vistej/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/vistej/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vistej/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vistej/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vistej/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/vistej/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vistej/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vistej/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vistej/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/vistej/leetcode-solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vistej/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
