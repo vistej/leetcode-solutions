@@ -4,7 +4,7 @@
  * @return {number}
  */
 var minEatingSpeed = function(piles, h) {
-    const maxBan = piles.reduce((a, b) => Math.max(a, b), 0);
+    const maxBan = Math.max(...piles);
     let res = maxBan;
     if (h === piles.length) return res;
     function getTime(n) {
