@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/vistej/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vistej/leetcode-solutions/tree/master/0443-string-compression) |
+| [1023-time-based-key-value-store](https://github.com/vistej/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vistej/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vistej/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1023-time-based-key-value-store](https://github.com/vistej/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/vistej/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vistej/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/vistej/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vistej/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/vistej/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/vistej/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vistej/leetcode-solutions/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/vistej/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
