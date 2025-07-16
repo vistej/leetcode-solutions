@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/vistej/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vistej/leetcode-solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/vistej/leetcode-solutions/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/vistej/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vistej/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/vistej/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vistej/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/vistej/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vistej/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/vistej/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/vistej/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vistej/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
