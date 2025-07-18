@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vistej/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vistej/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/vistej/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vistej/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/vistej/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
