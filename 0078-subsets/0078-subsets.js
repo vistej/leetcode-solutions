@@ -3,19 +3,15 @@
  * @return {number[][]}
  */
 var subsets = function(nums) {
-
-    const res = [[]];
-    
-    const loop = (i, ca) => {
+    const res = [];
+    const loop = (arr, i) => {
+        res.push(arr);
         for (let j = i; j < nums.length; j++) {
-            const na = Array.from(ca);
-            na.push(nums[j]);
-            res.push(na);
-            loop(j + 1, na);
-        };
-    };
-
-    loop(0, []);
-
+            arr.push(nums[j]);
+            loop([...arr], j + 1);
+            arr.pop();
+        }
+    }
+    loop([], 0);
     return res;
 };
