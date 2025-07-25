@@ -3,13 +3,13 @@ class Solution:
         res = []
         def loop(ar, i, s):
             if s == target:
-                res.append(ar)
+                res.append(list(ar))
             if s > target:
                 return
             for j in range(i, len(candidates)):
                 ar.append(candidates[j])
                 s += candidates[j]
-                loop(copy.deepcopy(ar), j, s)
+                loop(ar, j, s)
                 ar.pop()
                 s -= candidates[j]
         loop([], 0, 0)
