@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/vistej/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vistej/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vistej/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vistej/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1023-time-based-key-value-store](https://github.com/vistej/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/vistej/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vistej/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vistej/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/vistej/leetcode-solutions/tree/master/0883-car-fleet) |
+| [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Quickselect
 |  |
 | ------- |
@@ -312,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vistej/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vistej/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vistej/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
