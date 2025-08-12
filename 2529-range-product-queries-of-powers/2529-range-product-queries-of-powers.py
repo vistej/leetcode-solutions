@@ -6,14 +6,11 @@ class Solution:
             powers.append(lowBit)
             num ^= lowBit
 
-        size = len(powers)
-        table = [[0] * size for _ in range(size)]
-        for row, val in enumerate(powers):
-            table[row][row] = val
-            for col in range(row + 1, size):
-                table[row][col] = (
-                    table[row][col - 1] * powers[col] % (10**9 + 7)
-                )
-
-        return [table[p][q] for p, q in queries]
+        res = []
+        for x, y in queries:
+            val = 1
+            for i in range(x, y + 1):
+                val *= powers[i]
+            res.append(val % (10 ** 9 + 7))
+        return res
         
