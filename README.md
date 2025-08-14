@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/vistej/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vistej/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/vistej/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
 | ------- |
