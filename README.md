@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vistej/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vistej/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/vistej/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vistej/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vistej/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vistej/leetcode-solutions/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/vistej/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/vistej/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Linked List
 |  |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/vistej/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vistej/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/vistej/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vistej/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
