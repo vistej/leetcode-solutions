@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vistej/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/vistej/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vistej/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1448-maximum-69-number](https://github.com/vistej/leetcode-solutions/tree/master/1448-maximum-69-number) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/vistej/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vistej/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/vistej/leetcode-solutions/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
 | ------- |
