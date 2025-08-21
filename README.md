@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vistej/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vistej/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vistej/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2529-range-product-queries-of-powers](https://github.com/vistej/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/vistej/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vistej/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vistej/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Hash Table
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/vistej/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/vistej/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/vistej/leetcode-solutions/tree/master/1582-design-browser-history) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vistej/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vistej/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/vistej/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vistej/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/vistej/leetcode-solutions/tree/master/0883-car-fleet) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
