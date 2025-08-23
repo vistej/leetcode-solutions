@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/vistej/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vistej/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2529-range-product-queries-of-powers](https://github.com/vistej/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vistej/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/vistej/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vistej/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vistej/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Monotonic Stack
 |  |
 | ------- |
