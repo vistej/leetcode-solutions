@@ -3,27 +3,16 @@
  * @return {number}
  */
 var longestSubarray = function(nums) {
-    const data = [0, 0];
-    let cs = 0;
-    let res = 0;
+    let [res, prev, val] = [0, 0, 0];
     for (const n of nums) {
-        if (n === 1) {
-            data[cs]++;
+        if (n === 0) {
+            res = Math.max(res, prev + val);
+            prev = val;
+            val = 0
         } else {
-            cs++;
-            if (cs > 1) {
-                res = Math.max(res, data[0] + data[1]);
-                data[0] = data[1];
-                data[1] = 0;
-                cs = 1;
-            }
+            val += n;
         }
     }
-
-    res = Math.max(res, data[0] + data[1]);
-
-    if (res === nums.length) res--;
-
-    return res;
-    
+    res = Math.max(res, prev + val);
+    return Math.min(res, nums.length - 1);
 };
