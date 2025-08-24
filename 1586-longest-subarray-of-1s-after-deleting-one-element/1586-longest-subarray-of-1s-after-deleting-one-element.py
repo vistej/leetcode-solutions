@@ -1,24 +1,12 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
-        left = right = 0
-        has_zero = False
-
-        res = 0
-
+        res, val, prev = 0, 0, 0
         for n in nums:
-            if n == 1:
-                if has_zero:
-                    right += 1
-                else:
-                    left += 1
+            if n == 0:
+                res = max(res, prev + val)
+                prev = val
+                val = 0
             else:
-                if has_zero:
-                    res = max(res, left + right)
-                    left = right
-                    right = 0
-                else:
-                    has_zero = True
-        
-        fr = max(res, left + right)
-
-        return fr if fr < len(nums) else fr - 1
+                val += n
+        res = max(res, prev + val)
+        return min(res, len(nums) - 1)
